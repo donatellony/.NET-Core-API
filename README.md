@@ -1,6 +1,7 @@
 # .NET-Core-API
 
-This small project contains usage of:
+This small project contains usage of
+
 Entity Framework with CodeFirst approach,
 LINQ
 
